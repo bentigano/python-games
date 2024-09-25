@@ -17,7 +17,7 @@ def on_mouse_down(pos): # Pygame event hook (called automatically on mouse down/
         place_fruit()
     else:
         print("You missed!")
-        #quit()
+        quit()
 
 place_fruit()
 
