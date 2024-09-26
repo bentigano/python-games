@@ -8,11 +8,14 @@
 
 [Install Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/)
 
-### Installing Pygame Zero
+### Installing Pygame and Pygame Zero
 
 After python is installed, ensure pip is up to date:\
 `py -m pip install --upgrade pip`\
 `py -m pip install --upgrade pip setuptools wheel`
+
+Install Pygame:\
+`py -m pip install pygame`
 
 Install Pygame Zero:\
 `py -m pip install pgzero`
